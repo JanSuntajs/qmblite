@@ -6,6 +6,7 @@
 **/tmp
 *.hdf5
 **/analysescripts
+**/quick_txtfiles
 
 #ignore the runner script
 *runner.py
@@ -84,6 +85,7 @@ $RECYCLE.BIN/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*__pycache__/*
 *.py[cod]
 *$py.class
 
